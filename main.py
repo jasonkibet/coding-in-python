@@ -68,7 +68,7 @@ print(type(f))
 print(type(g))
 
 # strings
-string1 = "i am the strongest and brigtest the most awsome teacher in the wourld"
+string1 = "i am the strongest and brightest the most awsome teacher in the wourld"
 print(string1)
 print(type(string1))
 
